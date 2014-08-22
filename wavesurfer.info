@@ -1,0 +1,6 @@
+name = Wavesurfer
+description = Intergration for the Wavesurfer javascript plugin from http://www.wavesurfer.fm
+core = 7.x
+files[] = wavesurfer.module
+dependencies[] = libraries
+dependencies[] = jquery_colourpicker
